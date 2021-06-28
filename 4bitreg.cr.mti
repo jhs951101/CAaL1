@@ -1,0 +1,16 @@
+C:/4bitreg/dff.v {1 {vlog -work work -stats=none C:/4bitreg/dff.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} C:/4bitreg/test_dff.v {1 {vlog -work work -stats=none C:/4bitreg/test_dff.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dff
+-- Compiling module dff_tb
+
+Top level modules:
+	dff_tb
+
+} {} {}}
